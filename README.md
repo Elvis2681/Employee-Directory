@@ -2,6 +2,8 @@
 
 This app uses the Random User API to fetch "employee" data. You can sort and filter the employee datra in an easy-to-read table layout.
 
+View a live demo of the app at https://elvis2681.github.io/react-employee-directory/
+
 ## Available Scripts
 
 In the project directory, you can run:
