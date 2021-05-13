@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# React Employee Directory
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This app uses the Random User API to fetch "employee" data. You can sort and filter the employee datra in an easy-to-read table layout.
 
 ## Available Scripts
 
