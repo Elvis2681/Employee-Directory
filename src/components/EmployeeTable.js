@@ -1,6 +1,8 @@
-import TableHeader from "./TableHeader";
-import TableRow from "./TableRow";
-import Header from "./Header";
+import React from "react";
+import Search from "./Search";
+import TableRow from "./TableHeader";
+import Header from "./TableRow";
+
 //››fake data events into a map and make them into props
 const events = [
   {
@@ -34,3 +36,5 @@ function EventContainer() {
     </table>
   );
 }
+
+export default EmployeeTable;

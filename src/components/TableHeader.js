@@ -1,6 +1,14 @@
+import React from "react";
+
+//jumbotron header
 function Header() {
-  return <h2>TableHeader</h2>;
+  return (
+    <div class="jumbotron jumbotron-fluid">
+      <div class="container">
+        <h1 class="display-4">Employee Carousel</h1>
+      </div>
+    </div>
+  );
 }
 
-export default Header;
-//finish the prop
+export default TableHeader;
