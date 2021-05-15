@@ -1,5 +1,5 @@
 import React from "react";
-import EmployeeTable from "./components/EmployeeTable";
+import EmployeeTable from "./Component/EmployeeTable";
 
 function App() {
   return <EmployeeTable />;
